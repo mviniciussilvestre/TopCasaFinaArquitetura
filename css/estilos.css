@@ -66,6 +66,9 @@ footer address:last-child{
     #paineis-sobre {
         margin-top: 0;
     }
+    .titulo-depoimentos {
+        width: 100%;
+    }
 }
 
 @media (min-width: 992px) {
